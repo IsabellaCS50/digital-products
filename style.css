@@ -76,3 +76,99 @@
     font-size: 16px;
     font-weight: bold;
 }
+
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+.abouth1{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.about-title{
+    text-align: center;
+    padding-top: 60px;
+
+    color:white;
+
+}
+.box{
+    width: 250px;
+    height: 300px;
+    box-shadow: 4px 4px 15px gray;
+    background-color: #050404;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+}
+
+.icon{
+    width: 70px;
+    padding-top: 10px;
+}
+
+.box-btn{
+    background-color: gray;
+    color: white;
+    margin-top: 10px;
+}
+
+.box-title{
+    padding: 10px;
+}
+
+.box-description{
+    padding: 5px;
+}
+
+.service-container{
+    display: flex;
+    justify-content: space-around;
+    height: 40vh;
+    align-items: center;
+    padding: 50px;
+    margin-top: 20px;
+}
+.background{
+    background-image: url(./Images/background.png), linear-gradient(45deg, #363434,#050404);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.footer-menu{
+    font-size: 16px;
+    padding-top: 20px;
+}
+
+.footer-title{
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+.foot-box{
+    color: white;
+}
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    height: 40vh;
+    padding: 50px;
+}
+
+.footer-background{
+    background-image: url(./Images/background.png);
+    background-color: #050404;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.copy{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
