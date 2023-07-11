@@ -156,19 +156,28 @@
 .footer-container{
     display: flex;
     justify-content: space-around;
-    height: 40vh;
-    padding: 50px;
+    align-items: center;
+    width: 75%;
+    height: 60vh;
+    margin: auto;
+   /* padding: 50px; */
+ /*  border-bottom: 1px solid gray; */
+   
 }
 
 .footer-background{
     background-image: url(./Images/background.png);
     background-color: #050404;
     background-position: center;
-    background-size: cover;
     background-repeat: no-repeat;
 }
 .copy{
     color: white;
     text-align: center;
     padding: 20px;
+}
+
+.hr{
+    width: 75%;
+    margin-left: 12.5%;
 }
