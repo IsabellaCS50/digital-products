@@ -7,3 +7,10 @@
     color: aqua;
     cursor: url("https://www.macrumors.com/2017/11/03/face-with-tears-of-joy-most-popular-emoji/"), auto;
 }
+
+.box{
+    padding: 20px;
+    background-color: aquamarine;
+    width: 110px;
+    display: ;
+}
