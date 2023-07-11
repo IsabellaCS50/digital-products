@@ -1,0 +1,9 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+.hover{
+    color: aqua;
+    cursor: url("https://www.macrumors.com/2017/11/03/face-with-tears-of-joy-most-popular-emoji/"), auto;
+}
